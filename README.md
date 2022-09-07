@@ -33,6 +33,6 @@ Olá, meu nome é Kevin dos Reis Hartwig
   <a href = "mailto:kevindosreiskartwig1221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/KevinReisHartwig/KevinReisHartwig/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
