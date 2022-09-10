@@ -1,4 +1,4 @@
-Olá, meu nome é Kevin dos Reis Hartwi
+Olá, meu nome é Kevin dos Reis Hartwig
 
 
 - 🔭 No momento estou procurando um estágio de preferência Back-end ou Full Stack.
