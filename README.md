@@ -1,3 +1,11 @@
+<div align="center">
+  <h1 align="center">
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KevinReisHartwig" />
+    <img align="right" src="https://img.shields.io/github/followers/KevinReisHartwig?label=Follow&style=social" />
+  </h1>
+</div>
+
+
 Olá, meu nome é Kevin dos Reis Hartwig
 
 
