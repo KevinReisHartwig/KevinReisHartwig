@@ -5,7 +5,7 @@ Olá, meu nome é Kevin dos Reis Hartwig
 - 🌱 Estou cursando o 4° período em Tecnólogo em analise e desenvolvimento de sistemas.
 - 👯 Estou tentando colaborar e aprender com alguma empresa em busca de conhecimento e carreira profissional.
 - 💬 Pode me procurar no meu email: kevindosreishartwig1221@gmail.com ou instagram: kevindosreish.
-- 📖 Estudando principalmente na Ebac full-stack Java e outros cursos para aprimoramento dos conhecimentos na aréa e em inglês.
+- 📖 Estudando principalmente na Ebac full-stack Java e outros cursos para aprimoramento dos meus conhecimentos na aréa e em inglês.
 
 
 
