@@ -11,7 +11,7 @@ Olá, meu nome é Kevin dos Reis Hartwig
 <div align="center">
   <a href="https://github.com/KevinReisHartwig">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KevinReisHartwig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=A+"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KevinReisHartwig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinReisHartwig&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
