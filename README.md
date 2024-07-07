@@ -1,7 +1,7 @@
 Olá, meu nome é Kevin dos Reis Hartwig
 
 
-- No momento estou procurando um estágio e me aprimorando todo dia.
+- No momento estou procurando um estágio e sempre nas busca de evolução.
 - Estou cursando o 5° período em Tecnólogo em analise e desenvolvimento de sistemas.
 - Estou tentando colaborar e aprender com alguma empresa em busca de conhecimento e carreira profissional.
 - Pode me procurar no meu email: kevindosreishartwig1221@gmail.com ou instagram: kevindosreish.
