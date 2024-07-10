@@ -3,6 +3,8 @@ Olá, meu nome é Kevin dos Reis Hartwig
 
 - No momento estou em busca do meu primeiro estágio.
 - Formado em 2024: Tecnólogo em analise e desenvolvimento de sistemas.
+- Cursando Ciência de Dados.
+- Fazendo cursos para adquirir mais conhecimento.
 - Estou tentando colaborar e aprender com alguma empresa em busca de conhecimento e carreira profissional.
 - Pode me procurar no meu email: kevindosreishartwig1221@gmail.com ou instagram: kevindosreish.
 
