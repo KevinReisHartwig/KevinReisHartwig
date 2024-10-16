@@ -2,7 +2,6 @@
 
 ## Sobre Mim
 - 🎓 **Formado em 2024**: Tecnólogo em Análise e Desenvolvimento de Sistemas.
-- 📚 **Cursando**: Ciência de Dados.
 - 📈 **Buscando o primeiro estágio**: Desejo colaborar e aprender em uma empresa que me ofereça conhecimento e oportunidades de crescimento profissional.
 - 📖 **Aprimorando conhecimentos**: Atualmente realizando cursos para expandir minhas habilidades.
 
